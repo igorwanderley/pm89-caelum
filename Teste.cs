@@ -4,5 +4,6 @@ public class Teste
 	{
 		console.writeline("Teste");
 		console.writeline("Teste 35");
+		console.writeline("Teste 2");
 	}
 }
